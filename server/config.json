@@ -1,0 +1,10 @@
+{
+    "username": "your_username",
+    "password": "your_password",
+    "domain_map": {
+      "google": "https://google.com",
+      "github": "https://github.com",
+      "cern": "https://info.cern.ch"
+    }
+  }
+  
