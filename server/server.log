@@ -1,4 +1,67 @@
-2024/10/26 21:41:09 Configuration reloaded
-2024/10/26 21:41:09 Starting proxy server on :8080
-2024/10/26 21:41:30 Configuration reloaded
-2024/10/26 21:41:30 Starting proxy server on :8080
+2024/10/27 23:00:51 Configuration reloaded
+2024/10/27 23:00:51 Starting proxy server on :8080
+Configuration reloaded
+Starting proxy server on :8080
+Received request: GET /
+Authentication successful
+Target domain: https://google.com
+Visiting subaddress: /
+Full target URL: https://google.com/
+Making request to upstream server: https://google.com/
+Received response with status code: 301
+Redirecting to: https://www.google.com/
+Making request to upstream server: https://www.google.com/
+Received response with status code: 200
+Response sent to client with status code: 200
+Configuration reloaded
+Starting proxy server on :8080
+Session token missing in request
+Configuration loaded
+Starting SOCKS5 proxy on :1080
+Starting HTTP proxy on :8080
+Session token missing in request
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: a09766be-daf8-4170-b706-6a4bd30a4abd
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: d9a0c07f-01a0-46db-a877-f0e6644f4a15
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 2b39a858-27e6-4861-9fec-b3c84f54e21e
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 30ba20ee-d7b6-4ce2-93f7-570964a4d31c
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: be1089c3-7543-4ef1-970c-f094d818648a
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 4abc43a5-04e9-404d-a6f3-4cc859b01398
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 5a9d4013-4568-4845-a9ba-0337a822cbeb
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: ec47723d-0df4-4ac8-847d-b4a445a11cc1
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: ca4a8174-4096-4b22-8fbe-062c49cfd348
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: e7eecb5b-d692-49fb-a64d-9c5640654c34
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 19de0d9b-e4af-4f89-93e8-8d70aa42abe1
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 163bbdd2-f3f2-4b8d-b92f-edf87c43a371
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 8c3aeede-11b2-47cc-91fb-0d4b9d1d700a
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 65c748d6-6b0b-47df-ab94-09c6a75da675
+User 'user1' authenticated successfully
+Target domain for handshake: https://google.com
+Session created with token: 86c8d732-d9ec-4cb1-8558-77d929c0527d

@@ -1,6 +1,5 @@
 {
-    "username": "your_username",
-    "password": "your_password",
-    "domain_name": "github"
+    "username": "user1",
+    "password": "pass1",
+    "domain_name": "google"
 }
-  

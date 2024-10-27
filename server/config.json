@@ -1,10 +1,12 @@
 {
-    "username": "your_username",
-    "password": "your_password",
-    "domain_map": {
-      "google": "https://google.com",
-      "github": "https://github.com",
-      "cern": "https://info.cern.ch"
-    }
-  }
+    "user_credentials": [
+        {"username": "user1", "password": "pass1"},
+        {"username": "user2", "password": "pass2"}
+    ],
+    "domain_mappings": [
+      {"from": "google", "to": "https://google.com"},
+      {"from": "github", "to": "https://github.com"},
+      {"from": "cern", "to": "https://info.cern.ch"}
+    ]
+}
   
